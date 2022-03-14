@@ -8,4 +8,4 @@ Here are some things I like to do when I'm not staring at a screen:
 - Travelling
 - Chillin' with my cat
 
-- Here is my very humble [Codepen](https://codepen.io/bewarethebananapeel)
+Here is my very humble [Codepen](https://codepen.io/bewarethebananapeel)
