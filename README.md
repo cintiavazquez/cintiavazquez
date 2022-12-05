@@ -1,6 +1,4 @@
-# Cintia
-
-## Hi, I'm 29-year-old **translator-turned-web-dev**🐣
+# Hi, I'm 29-year-old **translator-turned-web-dev**🐣
 
 Here are some things I like to do when I'm not staring at a screen:
 - Hiking
