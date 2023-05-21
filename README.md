@@ -1,12 +1,12 @@
-# Hi, I'm 29-year-old **translator-turned-web-dev**🐣
+# Hi, I'm 30-year-old translator exploring around 🪐
 
-Here are some things I like to do when I'm not staring at a screen:
-- Hiking
-- Drawing
-- Travelling
-- Chillin' with my cat
+A few things I like to do in my free time:
 
- 🎄This month I had fun trying out [Advent of Code](adventofcode.com)
-![Advent of Code meme](https://preview.redd.it/2022-day-2-even-the-most-simple-things-can-be-difficult-v0-q8wbp9zksf3a1.jpg?width=640&crop=smart&auto=webp&s=61c1a46b08d9ce1bfec10f7bfcdc04a093129b90)
+- Finding cats to pet  🔍🐈  
+- Drawing and painting 🎨 
+- Browsing Pinterest
+- Trying out new things (such as coding, or woodworking, or archery, or pottery, or or or... 😬)
+
+## Currently very slowly following a Udemy course on vanilla web projects 🐌
 
 
